@@ -1,4 +1,4 @@
-9<h1 align="center">Hi 👋, I'm Sushant Chavan</h1>
+<h1 align="center">Hi , I'm Sushant Chavan</h1>
 <h3 align="center">Turning Ideas into Full-Stack & AI-Powered Systems</h3>
 
 - 🔭 I’m currently working on [NEXT-GEN CAD](https://github.com/sushant-bot/NEXTGEN-Cad)
